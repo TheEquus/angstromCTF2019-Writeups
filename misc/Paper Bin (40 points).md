@@ -1,5 +1,5 @@
 ## Challenge description: 
-defund accidentally deleted all of his math papers! Help recover them from his computer's raw data.
+defund accidentally deleted all of his math papers! Help recover them from his computer's [raw data](https://github.com/TheEquus/angstromCTF2019-Writeups/blob/master/misc/paper_bin.dat).
 
 ## Solution
 We are given a paper_bin.dat file, consisting of a dump of random characters and null bytes. Upon opening with a hex editor, we

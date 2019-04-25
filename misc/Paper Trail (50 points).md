@@ -1,5 +1,5 @@
 ## Challenge description:
-Something is suspicious about defund's math papers. See if you can find anything in the network packets we've intercepted from his computer.
+Something is suspicious about defund's math papers. See if you can find anything in the [network packets](https://github.com/TheEquus/angstromCTF2019-Writeups/blob/master/misc/paper_trail.pcapng) we've intercepted from his computer.
 
 ## Solution: 
 We are given the file: paper_trail.pcapng. Opening this with wireshark, we can see it's a TCP connection of an IRC chat.

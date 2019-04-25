@@ -1,5 +1,5 @@
 ## Challenge description:
-Someone scrubbed defund's paper too hard, and a few of the bytes fell off.
+Someone scrubbed defund's [paper](https://github.com/TheEquus/angstromCTF2019-Writeups/blob/master/misc/blank_paper.pdf) too hard, and a few of the bytes fell off.
 
 ## Solution:
 

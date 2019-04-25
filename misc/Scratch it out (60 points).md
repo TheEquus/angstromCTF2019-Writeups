@@ -1,5 +1,5 @@
 ## Challenge description:
-An oddly yellow cat handed me this message - what could it mean?
+An oddly yellow cat handed me this [message](https://github.com/TheEquus/angstromCTF2019-Writeups/blob/master/misc/project.json) - what could it mean?
 
 ## Solution:
 We are given a file called 'project.json'. Whilst at first the data was confusing, upon looking at the raw data, I noticed the

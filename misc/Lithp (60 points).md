@@ -1,5 +1,5 @@
 ## Challenge description:
-My friend gave me this program but I couldn't understand what he was saying - what was he trying to tell me?
+My friend gave me this [program](https://github.com/TheEquus/angstromCTF2019-Writeups/blob/master/misc/lithp.txt) but I couldn't understand what he was saying - what was he trying to tell me?
 
 ## Solution:
 So we are given a program called lithp.lisp (though I saved it as lithp.txt). From the file extension, as well as challenge name
